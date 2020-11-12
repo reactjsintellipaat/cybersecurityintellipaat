@@ -1,4 +1,5 @@
-# Ethical Hacking & Cyber Security Tutorial
+# cybersecurityintellipaat.github.io
+## Ethical Hacking & Cyber Security Tutorial
 n the present world where cyber attackers are well equipped with state-of-the-art and sophisticated technologies, the risk for hacks and security braches is at its peak. For this particular reason, security protocols need to be in place. And what is better than countering hacking with hacking itself. This is where Ethical Hacking comes to play. This highly technical job is aimed to prevent security breaches, and being government approved, the pay is pretty high.
 
 In this Ethical hacking & [Cyber security course](https://intellipaat.com/cyber-security-course-certification/) tutorial you will be able to get a clear idea on what is Ethical hacking, System hacking types, Footprinting, Ethical hacking enumeration, Network scanning, Threats from malware, Sniffing attacks, Social engineering attacks, Session hijacking, Hacking web servers and applications, SQL injection, Wireless network hacking, Mobile platform hacking, avoiding firewall and honeypot and various Encryption techniques.
